@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.submission_3"
+        applicationId "com.irfan.moviecatalogue"
         minSdkVersion 21
         buildConfigField("String", "TMDB_API_KEY", '"9d7f6bbc95d4db740e5763a39a73a659"')
         targetSdkVersion 28
